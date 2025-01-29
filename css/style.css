@@ -72,9 +72,13 @@ div{
     border-width: 2px 5px 0px 0px;
 }
 
-footer p{
+footer {
     border: 5px solid white; 
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
+}
+
+footer p{
+    border: none;
     font-size: 20px;
     text-align: right;
     padding: 15px 15px 15px 0px;
