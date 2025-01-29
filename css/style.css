@@ -2,7 +2,7 @@ body {
     font-family: Arial, Verdana;
     color: #ffffff;
     background-color: #000000;
-    margin: 20px, 20px, 0, 20px;
+    margin: 20px 20px 0px 20px;
 }
 
 h1{
@@ -46,14 +46,14 @@ div{
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border: 0, 0, 2px, 5px;
+    border: 0px 0px 2px 5px;
 }
 
 .blue {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border: 2px, 5px, 0, 0;
+    border: 2px 5px 0px 0px;
     color: #C4C4C4;
 }
 
@@ -61,7 +61,7 @@ div{
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border: 0, 0, 2px, 5px;
+    border: 0px 0px 2px 5px;
     color: #707070;
 }
 
@@ -69,7 +69,7 @@ div{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border: 2px, 5px, 0, 0;
+    border: 2px 5px 0px 0px;
 }
 
 footer {
@@ -77,5 +77,5 @@ footer {
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
     font-size: 20px;
     text-align: right;
-    padding: 15px, 15px, 15px, 0;  
+    padding: 15px 15px 15px 0px;
 }
